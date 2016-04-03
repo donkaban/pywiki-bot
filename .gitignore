@@ -1,0 +1,14 @@
+throttle.ctrl
+pywikibot.lwp
+*.bak
+*.pyc
+*.pyo
+*.*~
+/.tox
+/*.egg
+/data*
+logs*
+*apicache*
+*pycache*
+/cache*
+.idea
